@@ -57,8 +57,8 @@
 
 ### 📌 Pinned Repositories
 
-[![Pinned Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=0xKyle-Byte&repo=repo-name-1&theme=dark)](https://github.com/0xKyle-Byte/ALMS)
-[![Pinned Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=0xKyle-Bytee&repo=repo-name-2&theme=dark)](https://github.com/0xKyle-Byte/Dandilion)
+[![Pinned Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=0xKyle-Byte&repo=ALMS&theme=dark)](https://github.com/0xKyle-Byte/ALMS)
+[![Pinned Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=0xKyle-Byte&repo=Dandilion&theme=dark)](https://github.com/0xKyle-Byte/Dandilion)
 
 ---
 
