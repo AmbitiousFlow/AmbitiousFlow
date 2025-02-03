@@ -1,9 +1,7 @@
 # カイル・バイト
 
-[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKyle-Myre%2FKyle-Myre&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-[![GitHub Followers](https://img.shields.io/github/followers/0xKyle-Byte?label=Follow&style=social)](https://github.com/0xKyle-byte)
-
----
+[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKyle-Myre%2F0xSikrox&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![GitHub Followers](https://img.shields.io/github/followers/0xSikrox?label=Follow&style=social)](https://github.com/0xSikrox)
 
 ### 👨‍💻 About Me
 
@@ -12,16 +10,12 @@
 - 🌱 Actively contributing to **open-source projects**.
 - 📫 Reach me on Discord: **kyle.myre**.
 
----
-
 ### 🛠 Skills
 
 - **Frontend Development**
 - **Backend Development**
 - **Software Development**
 - **DevOps**
-
----
 
 ### ⚙️ Tech Stack
 
@@ -47,22 +41,11 @@
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
 
----
-
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xKyle-Byte&show_icons=true&theme=radical)](https://github.com/Kyle-Myre)
-
----
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xSikrox&show_icons=true&theme=radical)](https://github.com/0xSikrox)
 
 ### 📌 Pinned Repositories
 
-[![Pinned Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=0xKyle-Byte&repo=ALMS&theme=dark)](https://github.com/0xKyle-Byte/ALMS)
-[![Pinned Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=0xKyle-Byte&repo=Dandilion&theme=dark)](https://github.com/0xKyle-Byte/Dandilion)
-
----
-
-### 📬 Let's Connect!
-
-- [GitHub](https://github.com/0xKyle-Byte)
-- [Discord](https://discord.com/users/.0xkyle)
+[![Pinned Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=0xSikrox&repo=ALMS&theme=dark)](https://github.com/0xSikrox/ALMS)
+[![Pinned Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=0xSikroxe&repo=Dandilion&theme=dark)](https://github.com/0xSikrox/Dandilion)
