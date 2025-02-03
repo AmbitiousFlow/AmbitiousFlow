@@ -8,7 +8,6 @@
 - 💻 **Web Developer** and **Software Developer**.
 - 🤔 Currently exploring **Spring Boot** and **Kotlin**.
 - 🌱 Actively contributing to **open-source projects**.
-- 📫 Reach me on Discord: **kyle.myre**.
 
 ### 🛠 Skills
 
