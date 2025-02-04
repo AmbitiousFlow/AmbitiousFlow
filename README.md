@@ -6,14 +6,12 @@
 ### 👨‍💻 About Me
 
 - 💻 **Web Developer** and **Software Developer**.
-- 🤔 Currently exploring **Spring Boot** and **Kotlin**.
-- 🌱 Actively contributing to **open-source projects**.
+- 🤔 Currently exploring **Spring Boot** and **React Native**.
+- 🌱 Actively contributing to **Open Source Projects**.
 
 ### 🛠 Skills
 
-- **Frontend Development**
-- **Backend Development**
-- **Software Development**
+- **Full Stack Web Development**
 - **DevOps**
 
 ### ⚙️ Tech Stack
