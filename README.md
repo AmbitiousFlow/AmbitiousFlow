@@ -1,7 +1,7 @@
 # カイル・バイト
 
-[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKyle-Myre%2F0xSikrox&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-[![GitHub Followers](https://img.shields.io/github/followers/0xSikrox?label=Follow&style=social)](https://github.com/0xSikrox)
+[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOxSikrox%2F0xSikrox&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![GitHub Followers](https://img.shields.io/github/followers/OxSikrox?label=Follow&style=social)](https://github.com/OxSikrox)
 
 ## 👨‍💻 About Me
 
@@ -40,9 +40,9 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xSikrox&show_icons=true&theme=radical)](https://github.com/0xSikrox)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OxSikrox&show_icons=true&theme=radical)](https://github.com/0xSikrox)
 
 ## 📌 Pinned Repositories
 
-[![Pinned Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=0xSikrox&repo=ALMS&theme=dark)](https://github.com/0xSikrox/ALMS)
-[![Pinned Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=0xSikroxe&repo=Dandilion&theme=dark)](https://github.com/0xSikrox/Dandilion)
+[![Pinned Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=OxSikrox&repo=ALMS&theme=dark)](https://github.com/0xSikrox/ALMS)
+[![Pinned Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=OxSikrox&repo=Dandilion&theme=dark)](https://github.com/0xSikrox/Dandilion)
