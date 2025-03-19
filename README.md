@@ -1,6 +1,6 @@
 # 💫 About ME
 
-🔭 I’m currently working on Django App<br>👯 I’m looking to collaborate on Spring Boot App<br>🌱 I’m currently learning Devops and Cloud Computing<br>💬 Ask me about Laravel , React and More<br>⚡ Fun fact : I like cats
+🔭 I’m currently working on Django App<br>👯 I’m looking to collaborate on Spring Boot App<br>🌱 I’m currently learning Devops and Cloud Computing<br>💬 Ask me about Laravel , React and More<br>⚡ Fun fact I like cats
 
 
 # 💻 Tech Stack
