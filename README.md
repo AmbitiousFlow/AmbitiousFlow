@@ -54,7 +54,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmbitiousFlow&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AmbitiousFlowDev&theme=one_dark_pro&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=AmbitiousFlow&theme=one_dark_pro&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
