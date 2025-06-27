@@ -1,6 +1,5 @@
 ## 💫 About ME
 
-- 🔭 **I’m currently working on Django App**
 - 👯 **I’m looking to collaborate on Spring Boot App**
 - 🌱 **I’m currently learning Devops and Cloud Computing**
 - 💬 **Ask me about Laravel , React and More**
