@@ -1,11 +1,11 @@
-## 💫 About ME
+# 💫 About ME
 
 - 👯 **I’m looking to collaborate on Spring Boot App**
 - 🌱 **I’m currently learning Devops and Cloud Computing**
 - 💬 **Ask me about Laravel , React and More**
 - ⚡ **Fun fact I enjoy video games 🎮**
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white)
@@ -50,12 +50,12 @@
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmbitiousFlow&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AmbitiousFlow&theme=one_dark_pro&no-frame=false&no-bg=false&margin-w=4)
 
-## ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
