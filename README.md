@@ -52,10 +52,9 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmbitiousFlow&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![AmbitiousFlow's Stats](https://github-readme-stats.vercel.app/api?username=AmbitiousFlow&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) ![AmbitiousFlow's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmbitiousFlow&theme=vue-dark&hide_border=false)
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AmbitiousFlow&theme=one_dark_pro&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=AmbitiousFlow&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
