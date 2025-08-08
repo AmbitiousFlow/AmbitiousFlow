@@ -47,17 +47,9 @@ Hi there! I'm a passionate developer eager to create innovative solutions and co
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
 
-
-
 # 📊 GitHub Stats
-
 ![AmbitiousFlow's Stats](https://github-readme-stats.vercel.app/api?username=AmbitiousFlow&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
-# 🏆 GitHub Trophies
-
-![AmbitiousFlow's Trophies](https://github-profile-trophy.vercel.app/?username=AmbitiousFlow&theme=onedark&no-frame=true&margin-w=0)
 
 # ✍️ Random Dev Quote
-
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
