@@ -49,6 +49,8 @@ Hi there! I'm a passionate developer eager to create innovative solutions and co
 
 # 📊 GitHub Stats
 ![AmbitiousFlow's Stats](https://github-readme-stats.vercel.app/api?username=AmbitiousFlow&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+[![AmbitiousFlow's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AmbitiousFlow&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 # ✍️ Random Dev Quote
