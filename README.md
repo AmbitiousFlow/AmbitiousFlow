@@ -50,7 +50,7 @@ Hi there! I'm a passionate developer eager to create innovative solutions and co
 # 📊 GitHub Stats
 
 <a>
-  <img aligne="center" src="https://github-readme-stats.vercel.app/api?username=AmbitiousFlowDev&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" />
+  <img aligne="center" src="https://github-readme-stats.vercel.app/api?username=AmbitiousFlowDev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
 </a>
 
 # ✍️ Random Dev Quote
